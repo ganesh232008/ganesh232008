@@ -45,7 +45,7 @@ My areas of interest are data science, machine learning, artificial intelligence
 
 ### PromptStudio AI
 
-- **Purpose:** An AI-related academic project.
+- **Purpose:** An AI project built for Kaggle (5-Day AI Agents: Intensive Vibe Coding Course).
 - **Repository:** [PromptStudio AI](https://github.com/ganesh232008/promptstudio-ai)
 - **Status:** Completed. Known errors are being fixed.
 
@@ -73,6 +73,15 @@ My areas of interest are data science, machine learning, artificial intelligence
 | September 2026 | Introduction to Programming with MATLAB | Vanderbilt University, Coursera |
 | September 2026 | Hack Summit 7.0, Participation | SRMIST, Chennai |
 | November 2026 | Urban Mobility Challenge, 24-Hour Hackathon, Participation | Easwari Startup Peravai |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganesh232008&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh232008&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" />
+</p>
 
 ---
 
