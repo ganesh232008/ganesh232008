@@ -48,7 +48,6 @@ My areas of interest are data science, machine learning, artificial intelligence
 - **Purpose:** An AI-related academic project.
 - **Repository:** [PromptStudio AI](https://github.com/ganesh232008/promptstudio-ai)
 - **Status:** Completed. Known errors are being fixed.
-- **My contribution:** [WRITE YOUR ROLE HERE]
 
 ### RouteSense-AI: Connected Mobility Intelligence for a Smarter Chennai
 
@@ -56,7 +55,6 @@ My areas of interest are data science, machine learning, artificial intelligence
 - **Technologies:** React, Vite, Tailwind CSS, FastAPI, MySQL, Pandas, NumPy, Scikit-learn, Leaflet
 - **Event:** Urban Mobility Challenge, 24-hour hackathon (5 to 6 November 2026), as Team Innovex
 - **Status:** In progress. Hackathon prototype, not yet completed.
-- **My contribution:** [WRITE YOUR ROLE HERE]
 
 ### AI Payment Scam Detector
 
@@ -64,7 +62,6 @@ My areas of interest are data science, machine learning, artificial intelligence
 - **Technologies:** Firebase (login, sign-up and database)
 - **Event:** Hack Summit 7.0, SRMIST, Chennai (Aaruush '26)
 - **Status:** In progress. Hackathon prototype, not yet completed.
-- **My contribution:** [WRITE YOUR ROLE HERE]
 
 ---
 
@@ -76,6 +73,15 @@ My areas of interest are data science, machine learning, artificial intelligence
 | September 2026 | Introduction to Programming with MATLAB | Vanderbilt University, Coursera |
 | September 2026 | Hack Summit 7.0, Participation | SRMIST, Chennai |
 | November 2026 | Urban Mobility Challenge, 24-Hour Hackathon, Participation | Easwari Startup Peravai |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganesh232008&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh232008&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" />
+</p>
 
 ---
 
