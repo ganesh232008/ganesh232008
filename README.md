@@ -1,17 +1,20 @@
-<h1 align="center">L Ganesh Kanna</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=160&section=header&text=L%20Ganesh%20Kanna&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Second%20Year%20%7C%20B.Tech%20AI%20and%20Data%20Science%20%7C%20Chennai&descSize=15&descColor=c7d2fe&descAlignY=68" width="100%" />
+</p>
 
 <p align="center">
-  <b>B.Tech Artificial Intelligence and Data Science | Aspiring Data Scientist | Learning Python, NumPy, Pandas and Machine Learning</b>
+  <b>Aspiring Data Scientist | Learning Python, NumPy, Pandas and Machine Learning</b>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/l-ganesh-kanna-77351137a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kannaganesh2008@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ganesh232008"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Year-Second%20Year-4f46e5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Degree-B.Tech%20AI%20%26%20DS-0ea5e9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Degree-B.Tech%20AI%20and%20DS-0ea5e9?style=flat-square" />
   <img src="https://img.shields.io/badge/College-Saveetha%20Engineering%20College-475569?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-10b981?style=flat-square" />
   <img src="https://img.shields.io/badge/Graduation-2029-f59e0b?style=flat-square" />
@@ -40,29 +43,28 @@ My areas of interest are data science, machine learning, artificial intelligence
 
 ## Projects
 
+### PromptStudio AI
+
+- **Purpose:** An AI-related academic project.
+- **Repository:** [PromptStudio AI](https://github.com/ganesh232008/promptstudio-ai)
+- **Status:** Completed. Known errors are being fixed.
+- **My contribution:** [WRITE YOUR ROLE HERE]
+
 ### RouteSense-AI: Connected Mobility Intelligence for a Smarter Chennai
 
 - **Purpose:** Identify multimodal transfer hubs and connectivity gaps using Chennai Metro, MTC bus, suburban rail, road-network and bus-stop datasets.
 - **Technologies:** React, Vite, Tailwind CSS, FastAPI, MySQL, Pandas, NumPy, Scikit-learn, Leaflet
 - **Event:** Urban Mobility Challenge, 24-hour hackathon (5 to 6 November 2026), as Team Innovex
-- **Status:** Hackathon prototype
+- **Status:** In progress. Hackathon prototype, not yet completed.
 - **My contribution:** [WRITE YOUR ROLE HERE]
-- **How to run:** Instructions will be added when the repository is published.
 
 ### AI Payment Scam Detector
 
 - **Purpose:** Review a payment and return a clear decision: Allow, Verify or Block.
 - **Technologies:** Firebase (login, sign-up and database)
 - **Event:** Hack Summit 7.0, SRMIST, Chennai (Aaruush '26)
-- **Status:** Hackathon prototype
+- **Status:** In progress. Hackathon prototype, not yet completed.
 - **My contribution:** [WRITE YOUR ROLE HERE]
-- **How to run:** Instructions will be added when the repository is published.
-
-### PromptStudio AI
-
-- **Purpose:** An AI-related academic project.
-- **Repository:** [PromptStudio AI](https://github.com/ganesh232008/promptstudio-ai)
-- **Status:** [WRITE STATUS HERE]
 
 ---
 
@@ -70,7 +72,7 @@ My areas of interest are data science, machine learning, artificial intelligence
 
 | Date | Achievement | Issuer |
 |---|---|---|
-| July 2026 | 5-Day AI Agents: Intensive Vibe Coding Course | Kaggle |
+| July 2026 | 5-Day AI Agents: Intensive Vibe Coding Course (Badge) | Kaggle |
 | September 2026 | Introduction to Programming with MATLAB | Vanderbilt University, Coursera |
 | September 2026 | Hack Summit 7.0, Participation | SRMIST, Chennai |
 | November 2026 | Urban Mobility Challenge, 24-Hour Hackathon, Participation | Easwari Startup Peravai |
@@ -87,11 +89,11 @@ My areas of interest are data science, machine learning, artificial intelligence
 
 ## Goals
 
-**Next 6 months**
+**By May 2027**
 
-- Complete and document two projects on GitHub, each with purpose, technologies, run instructions and screenshots.
+- Fix the known errors in PromptStudio AI and document it with run instructions and screenshots.
+- Complete one hackathon project (RouteSense-AI or AI Payment Scam Detector) and publish it on GitHub.
 - Finish a NumPy and Pandas practice project using a real dataset.
-- Publish the RouteSense-AI and AI Payment Scam Detector repositories.
 
 **Long term**
 
@@ -104,5 +106,12 @@ My areas of interest are data science, machine learning, artificial intelligence
 
 <p>
   <a href="https://www.linkedin.com/in/l-ganesh-kanna-77351137a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kannaganesh2008@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ganesh232008"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Second-year student, learning and building one project at a time.</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:0f172a&height=100&section=footer&animation=fadeIn" width="100%" />
 </p>
